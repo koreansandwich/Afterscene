@@ -39,14 +39,18 @@ lib/
 ## 🧩 Tech Stack
 
 ### Frontend  
-- Flutter (Material UI, Navigation, StatefulWidgets)
-- Image Picker
-- TableCalendar
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)  
+![Navigation](https://img.shields.io/badge/Navigation-internal-blue?style=for-the-badge)  
+![StatefulWidget](https://img.shields.io/badge/StatefulWidget-Dart-blue?style=for-the-badge)  
+![Image Picker](https://img.shields.io/badge/Image_Picker-FFCC00?style=for-the-badge&logo=flutter&logoColor=black)  
+![TableCalendar](https://img.shields.io/badge/TableCalendar-Calendar-FF6F00?style=for-the-badge)
 
 ### Backend  
-- Firebase Auth  
-- Firebase Firestore  
-- Firebase Storage  
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white)  
+![Firebase Storage](https://img.shields.io/badge/Firebase_Storage-FFCCBC?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 ---
 
